@@ -1,9 +1,7 @@
 ### Tervetuloa MCTAPAHTUMiin!
 
+## Täällä voit osallistua kaikkiin Minecraft Tapahtumiin.
 
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
